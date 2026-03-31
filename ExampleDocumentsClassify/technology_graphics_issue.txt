@@ -1,0 +1,29 @@
+GRAPHICS CARD COMPATIBILITY ISSUE — WINDOWS DISPLAY DRIVER
+
+I recently upgraded my system with a new ISA graphics card and I am having serious trouble 
+getting the display driver to work correctly under Windows 3.1. The card uses a VESA local 
+bus chipset and the manufacturer claims it supports resolutions up to 1280x1024 at 256 colors.
+
+The problem is that at anything above 800x600 the display begins to flicker badly and 
+sometimes the system locks up entirely. I have tried three different driver versions from 
+the manufacturer's BBS and none of them resolve the issue. The XFree86 configuration also 
+fails to detect the card properly when I try to run it under Linux.
+
+My system specifications are as follows. I have a 486DX2 running at 66MHz with 8MB of RAM. 
+The motherboard is an AMI BIOS board with ISA and VLB slots. The graphics card has 2MB of 
+VRAM onboard. I am using a SVGA monitor that supports up to 72Hz refresh rate at 1024x768.
+
+Has anyone successfully configured a similar setup? I am wondering if the issue is related 
+to the interrupt settings on the card or possibly a conflict with my sound card which is 
+also using the ISA bus. Any suggestions for IRQ settings or DMA channels to try would be 
+very helpful. I have already tried disabling the onboard serial ports to free up IRQs but 
+this did not help.
+
+I also tried reinstalling the DirectX runtime libraries but the problem persists. Someone 
+on another forum suggested updating the motherboard BIOS but I am nervous about doing that 
+without more guidance. The card does work at 640x480 without any issues so the hardware 
+itself does not appear to be defective.
+
+Please reply if you have experience with VESA local bus graphics cards on 486 systems. 
+I would particularly appreciate any advice about the XFree86 configuration file settings 
+for the Modeline parameters at higher resolutions.
