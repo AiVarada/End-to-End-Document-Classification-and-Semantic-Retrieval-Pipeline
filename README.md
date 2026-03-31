@@ -2,7 +2,7 @@
 
 An NLP pipeline for multi-class document classification and semantic retrieval over 1,200+ documents. Compares Logistic Regression, SVM, and Naive Bayes using 5-fold stratified cross-validation, achieving 89% weighted F1 with LinearSVC. Extended with a transformer-based RAG component using HuggingFace sentence-transformers and FAISS vector indexing, improving Precision@5 by 38% over a TF-IDF baseline. Deployed on Streamlit with real-time classification, side-by-side retrieval comparison, and LLM answer generation via Groq API.
 
-🔗 **Live App:** [end-to-end-document-classification-and-semantic-retrieval-pipe.streamlit.app]([https://your-app-url.streamlit.app](https://end-to-end-document-classification-and-semantic-retrieval-pipe.streamlit.app/))
+🔗 **Live App:** [end-to-end-document-classification-and-semantic-retrieval-pipe.streamlit.app](https://end-to-end-document-classification-and-semantic-retrieval-pipe.streamlit.app/)
 
 ---
 
