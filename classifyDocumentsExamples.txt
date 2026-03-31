@@ -1,0 +1,42 @@
+1. Technology
+(from comp.graphics, comp.sys., comp.windows, sci.electronics)*
+I'm having trouble getting my VESA driver to work properly on the new 
+ISA graphics card. The display flickers at 1024x768 resolution but works 
+fine at 800x600. Has anyone patched the XFree86 config for this chipset?
+
+2. Research
+(from alt.atheism, sci.crypt, sci.space)
+The RSA encryption algorithm relies on the difficulty of factoring large 
+prime numbers. A 1024-bit key is currently considered secure but quantum 
+computers may render it vulnerable within the next decade of development.
+
+3. Medical
+(from sci.med only)
+My doctor prescribed metformin for type 2 diabetes management. I've read 
+that it reduces glucose production in the liver. Are there any known 
+interactions with ibuprofen I should be aware of before starting the dose?
+
+4. Operations
+(from misc.forsale, rec.autos, rec.motorcycles, rec.sport.)*
+For sale: 1991 Honda CB750 motorcycle, 18,000 miles, runs great. 
+New tires fitted last summer, recent oil change, battery replaced. 
+Asking $2,200 firm. Cash only, local pickup, no shipping available.
+
+5. Legal 
+(from talk.politics.guns, talk.politics.mideast, talk.politics.misc)
+Background checks at gun shows should be mandatory for all private sellers. 
+The current loophole allows unlicensed dealers to bypass federal screening. 
+Several states have already passed universal background check legislation.
+
+6. Compliance
+(from soc.religion.christian, talk.religion.misc)
+The church council voted to adopt the new code of conduct for all 
+volunteer staff and clergy. Members are required to complete the 
+ethics training before participating in any youth ministry activities.
+
+7. Borderline case — Operations vs Research
+(rec.sport mapped to Operations, sci.space mapped to Research)
+The space shuttle launch was postponed due to unfavorable weather conditions 
+at Kennedy Space Center. NASA engineers are monitoring the fuel system 
+pressure readings before rescheduling the mission for later this week.
+This should predict Research — good test of whether the model separates sci.space from rec.* correctly.

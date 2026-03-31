@@ -1,0 +1,35 @@
+Technology
+What are common problems people face when installing graphics card drivers on Windows?
+How do I configure XFree86 for a VESA graphics card at high resolution?
+
+Medical
+What are the side effects of taking Metformin for diabetes treatment?
+Can ibuprofen be taken alongside prescription diabetes medication safely?
+
+Legal (Politics — Gun)
+What arguments do supporters of background check legislation make?
+How has the Second Amendment been interpreted in recent gun control debates?
+
+Legal (Politics — Middle East)
+What are the main obstacles to peace negotiations between Israel and Palestine?
+What role has the United Nations played in Middle East conflict resolution?
+
+Research (Space)
+What evidence has the Mars rover found for the presence of water on Mars?
+How does NASA communicate with rovers on the surface of Mars?
+
+Research (Cryptography)
+How does RSA encryption use prime numbers to secure data?
+What are the risks of current encryption methods against quantum computers?
+
+Operations (Sport)
+What makes a successful playoff run in professional baseball?
+How do hockey teams prepare their lineup for a championship series?
+
+Operations (Forsale)
+What should I look for when buying a used motorcycle from a private seller?
+What is a fair price for a used Honda motorcycle with 18000 miles?
+
+Compliance (Religion)
+How are Christian congregations addressing moral relativism in modern society?
+What role does scripture play in guiding church community decisions?
